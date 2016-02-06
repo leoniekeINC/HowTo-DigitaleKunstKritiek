@@ -38,7 +38,8 @@ In deze 'how to' zijn 4 longform experimenten te vinden met elk een eigen moeili
 <div class="infobox">
 ###Colofon
 Redactie: Miriam Rasch & Leonieke van Dipten <br>
-Design: Lasse van den Bosch & Marlon Harder (Template) <br>
+Design: Lasse van den Bosch & Marlon Harder, 
+[Template](http://www.template01.info/)<br>
 Met dank aan: Wouter Hillaert (Rekto Verso), Marianne van den Berg (ArchiNed), Sophia Zürcher, Sonja van der Valk, Nadine Roestenburg, Daphne Rieken & Laurence scherz.
 </div>
 
