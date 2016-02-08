@@ -30,12 +30,12 @@ vind je vier verschillende experimenten - voorbeelden van longforms - met benodi
 ##Wat is longform
 Er bestaat geen duidelijke definitie, veelal wordt er verwezen naar diepgaande online artikelen met grote hoeveelheid content, die alle technieken van online schrijven belichaamd. Wij benaderen longforms als multimedia essays die verrijkt kunnen worden met foto's, video's, tijdlijnen, biografieën, audioboeken, interviews, infographics, kaarten, interne en externe links etc.
 
-<div class="linkbox">
+<div class="infobox">
 #Hoe moet je deze ‘How To’ gebruikten 
 In deze 'how to' zijn 4 longform experimenten te vinden met elk een eigen moeilijkheidsgraad - easy, moderate en expert - die aangeeft in welke mate technische kennis vereist is. Bij elk experiment vind je links op de pagina het voorbeeld en de technische overwegingen. Rechts kun je de benodigdheden en extra bronnen raadplegen. 
 </div>
 
-<div class="infobox">
+<div class="linkbox">
 ###Colofon
 Redactie: Miriam Rasch & Leonieke van Dipten <br>
 Design: Lasse van den Bosch & Marlon Harder, 
@@ -55,8 +55,7 @@ Met dank aan: Wouter Hillaert (Rekto Verso), Marianne van den Berg (ArchiNed), S
 
 
 ##Introductie 
-Welke open source tools zijn er reeds beschikbaar om longforms te produceren en online content te verrijken en verbeteren? <br>
-Hier vind je een overzicht van tools die gemakkelijk en zonder al te veel technische kennis te gebruiken zijn. 
+Welke open source tools zijn er reeds beschikbaar om longforms te produceren en online content te verrijken en verbeteren? In dit experiment vind je een overzicht van longform, tijdline en image annotation tools die gemakkelijk en zonder al te veel technische kennis toe te passen zijn. 
 
 ##Het experiment 
 **Image annotatie tools en timeline tools** <br>
@@ -105,19 +104,19 @@ Lasso Frontend editor
 <div class="difficulty-level expert"></div>
 
 ##Introductie 
-Welke open source tools zijn er reeds beschikbaar om een longform te producen? 
+Hoe kunnen we optimaal gebruik maken van de mogelijkheden van het web om een video essay te maken? In dit experiment is er gewerkt naar verschillende elementen: tekst, video’s, citaten uit de romans en geanimeerde dialogen.
 
 ##Het experiment
-Met deze video essay hadden we voor ogen om veel verschillende elementen te gebruiken om ons punt duidelijk te maken. Tekst, video’s, citaten uit de romans en geanimeerde dialogen. Hoewel we in eerste instantie dachten dat het iets te ambitieus was hebben al onze ideeen de longform gehaald. We hebben vanaf het begin nagedacht welke technieken we in gingen zetten en dat heeft ons verhaal versterkt. 
+In dit experiment is er gezocht naar verschillende elementen om het essay te verreiken en hoe deze elementen onderdeel kunnen zijn van de lopende tekst.
+Hoe de leegbaarheid optimaal te houden?
 
-Inspiratie voor dit project is gehaalt uit voorbeelden van De Correspondent (annotaties van woorden en sidenotes), Vrij Nederland (leesbaarheid en vormgeving tekst), de kinetische poezie van Y. H. Chang, en de video essays van Kevin B. Lee. 
-
-Daarnaast ontwikkelde de inhoud zich eigenlijk een beetje samen met de visuele content (organisch process): welke filmfragmenten willen we tonen, en wat voor effect heeft dit op ons verhaal? De video’s en quotes moesten illustratief zijn, maar ook meer dan dat: een vast deel van het verhaal dat niet kon ontbreken. Je wilt niet alleen dingen stellen, maar de lezer ook laten zien wat je beweert. 
-
+![](lib/video.png)
 
 ##Technische overwegingen
 Lasse en Marlon?
-
+ - Het dialoog
+ - automatisch spelen video
+ - citaten
 
 <div class="linkbox">
 ##Benodigdheden
@@ -129,7 +128,6 @@ Lasse en Marlon? (indien die er zijn)
 ##Leuke Linkjes
 [Kinetische poezie van Y. H. Chang](http://www.yhchang.com/THE_INLAND_SEA.html) <br>
 [Video essays van Kevin B. Lee](https://vimeo.com/kevinblee)<br>
-Lasse & Marlon?
 </div>
 
 
@@ -186,7 +184,8 @@ Ter aanvulling op een artikel in het blad kunstbeeld is er een kleine omgeving g
 Link voorbeeld kunstbeeld
 
 ##Het experiment
-
+omschrijven leonieke
+![](lib/Kunstbeeld.png)
 
 ##Technische overwegingen
 Voor deze image map is gezocht naar een alternatief op de meer traditionele image map. Het doel was iets te vinden met een moderne uitstraling, werkend op verschillende platforms. Er is gekozen om de traditionele image map te vervangen voor [Leaflet](http://leafletjs.com/); een open source JavaScript-bibliotheek voor interactieve kaarten. Hierdoor wordt je afbeelding minder statisch en je hebt meer het gevoel dat je kunt ’surfen’ in een digitale omgeving. Door het gebruik van Leaflet hoef je je foto niet op te delen in stukken maar kun je ‘markers’ toevoegen op je kaart. Door er op te klikken opent zich een pop-up met een speler voor audio. 
