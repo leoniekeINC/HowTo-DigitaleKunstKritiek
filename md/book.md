@@ -196,7 +196,7 @@ Door het gebruik van Leaflet hoef je je foto niet op te delen in stukken maar ku
 </div>
 
 <div class="infobox">
-##Een extraatje** <br>
+##Een extraatje
 http://psousa.net/demos/zoom-images/ <br>
 </div>
 
