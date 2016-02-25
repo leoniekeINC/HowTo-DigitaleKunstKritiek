@@ -86,12 +86,12 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>How to voor Digitale Kunstkritiek</Content>
+    <Content>How-to voor digitale kunstkritiek</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>'How to' voor Digitale Kunstkritiek</Content>
+    <Content>How-to voor digitale kunstkritiek</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -101,17 +101,22 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hoe kunnen we op zinvolle wijze online kritiek bedrijven en koe kan de digitale omgeving de huidige kritiek verrijken? Aan de hand van deze vragen onderzochten we de mogelijkheden die het Longform genre de kritiek bied. In deze 'how to' delen we onze ervaringen en kennis.</Content>
+    <Content>Hoe kunnen we op zinvolle wijze online kritiek bedrijven en koe kan de digitale omgeving de huidige kunstkritiek verrijken? Met deze vragen als uitgangspunt onderzocht het PublishingLab samen met verschillende kunst- en cultuurredacties de mogelijkheden die het genre van de 'longform' de kritiek biedt. In deze 'how-to' delen we deze ervaringen en kennis.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wat vind je in deze ‘How To’</Content>
+    <Content>Wat vind je in deze how-to</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Deze 'How To' bied een praktische 'guide' voor culturele tijdschriften, kleine uitgeverijen, websites, blogs, critici, schrijvers, ontwerpers en ontwikkelaars voor het creëren en verrijken van longforms. Hoe maak je een longform en waar te beginnen? In deze omgeving vind je vier verschillende experimenten - voorbeelden van longforms - met benodigdheden en tips om zelf aan de slag te gaan.</Content>
+    <Content>Deze how-to biedt een praktische 'guide' voor culturele tijdschriften, kleine uitgeverijen, websites, blogs, critici, schrijvers, ontwerpers en ontwikkelaars voor het creëren en verrijken van longform-artikelen. Hoe maak je een longform? Waar te beginnen? In deze publicatie vind je vier verschillende experimenten - voorbeelden van longforms - met benodigdheden en tips om zelf aan de slag te gaan.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Voor wie is deze how-to</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -121,17 +126,17 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Er bestaat geen duidelijke definitie, veelal wordt er verwezen naar diepgaande online artikelen met grote hoeveelheid content, die alle technieken van online schrijven belichaamd. Wij benaderen longforms als multimedia essays die verrijkt kunnen worden met foto's, video's, tijdlijnen, biografieën, audioboeken, interviews, infographics, kaarten, interne en externe links etc.</Content>
+    <Content>Er bestaat geen duidelijke definitie van wat longform is, veelal wordt ermee verwezen naar diepgaande online artikelen met een grote hoeveelheid content, die alle technieken van online schrijven belichamen. Hier benaderen we longforms als multimedia-essays die verrijkt kunnen worden met foto's, video's, tijdlijnen, biografieën, audioboeken, interviews, infographics, kaarten, interne en externe links etc.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Hoe moet je deze ‘How To’ gebruikten</Content>
+    <Content>Hoe moet je deze how-to gebruiken</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>In deze 'how to' zijn 4 longform experimenten te vinden met elk een eigen moeilijkheidsgraad - easy, moderate en expert - die aangeeft in welke mate technische kennis vereist is. Bij elk experiment vind je links op de pagina het voorbeeld en de technische overwegingen. Rechts kun je de benodigdheden en extra bronnen raadplegen.</Content>
+    <Content>In deze how-to zijn vier experimenten met longforms te vinden, elk met een eigen moeilijkheidsgraad die aangeeft in welke mate technische kennis vereist is: easy, moderate en expert. Bij elk experiment vind je links op de pagina het voorbeeld en de technische overwegingen. Rechts kun je de benodigdheden en extra bronnen raadplegen.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
@@ -141,10 +146,10 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Redactie: Miriam Rasch &amp; Leonieke van Dipten </Content>
+    <Content>Redactie: Leonieke van Dipten &amp; Miriam Rasch</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Design: Lasse van den Bosch &amp; Marlon Harder, </Content>
+    <Content> Design: Lasse van den Bosch Christensen &amp; Marlon Harder, </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
@@ -152,12 +157,12 @@
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Met dank aan: Wouter Hillaert (Rekto Verso), Marianne van den Berg (ArchiNed), Sophia Zürcher, Sonja van der Valk, Nadine Roestenburg, Daphne Rieken &amp; Laurence scherz.</Content>
+    <Content> Met dank aan: Marina van den Berg (ArchiNed), Wouter Hillaert (rekto:verso), Daphne Rieken, Nadine Roestenburg, Laurence Scherz, Sonja van der Valk &amp; Sophia Zürcher.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Lessons Learned</Content>
+    <Content>Lessons learned</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
