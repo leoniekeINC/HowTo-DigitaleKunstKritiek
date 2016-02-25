@@ -17,34 +17,35 @@ Rights: CC BY-NC 4.0
 ...
 
 <div class="pagetitle">
-# How to voor Digitale Kunstkritiek
+# How-to voor digitale kunstkritiek
 </div>
 
-#'How to' voor Digitale Kunstkritiek
+#How-to voor digitale kunstkritiek
 
 ## Introductie
-Hoe kunnen we op zinvolle wijze online kritiek bedrijven en koe kan de digitale omgeving de huidige kritiek verrijken? Aan de hand van deze vragen onderzochten we de mogelijkheden die het Longform genre de kritiek bied. In deze 'how to' delen we onze ervaringen en kennis. 
-##Wat vind je in deze ‘How To’ Deze 'How To' bied een praktische 'guide' voor culturele tijdschriften, kleine uitgeverijen, websites, blogs, critici, schrijvers, ontwerpers en ontwikkelaars voor het creëren en verrijken van longforms. Hoe maak je een longform en waar te beginnen? In deze omgeving 
-vind je vier verschillende experimenten - voorbeelden van longforms - met benodigdheden en tips om zelf aan de slag te gaan.  
+Hoe kunnen we op zinvolle wijze online kritiek bedrijven en koe kan de digitale omgeving de huidige kunstkritiek verrijken? Met deze vragen als uitgangspunt onderzocht het PublishingLab samen met verschillende kunst- en cultuurredacties de mogelijkheden die het genre van de 'longform' de kritiek biedt. In deze 'how-to' delen we deze ervaringen en kennis. 
+##Wat vind je in deze how-to Deze how-to biedt een praktische 'guide' voor culturele tijdschriften, kleine uitgeverijen, websites, blogs, critici, schrijvers, ontwerpers en ontwikkelaars voor het creëren en verrijken van longform-artikelen. Hoe maak je een longform? Waar te beginnen? In deze publicatie vind je vier verschillende experimenten - voorbeelden van longforms - met benodigdheden en tips om zelf aan de slag te gaan.  
+
+##Voor wie is deze how-to
 
 ##Wat is longform
-Er bestaat geen duidelijke definitie, veelal wordt er verwezen naar diepgaande online artikelen met grote hoeveelheid content, die alle technieken van online schrijven belichaamd. Wij benaderen longforms als multimedia essays die verrijkt kunnen worden met foto's, video's, tijdlijnen, biografieën, audioboeken, interviews, infographics, kaarten, interne en externe links etc.
+Er bestaat geen duidelijke definitie van wat longform is, veelal wordt ermee verwezen naar diepgaande online artikelen met een grote hoeveelheid content, die alle technieken van online schrijven belichamen. Hier benaderen we longforms als multimedia-essays die verrijkt kunnen worden met foto's, video's, tijdlijnen, biografieën, audioboeken, interviews, infographics, kaarten, interne en externe links etc.
 
 <div class="infobox">
-#Hoe moet je deze ‘How To’ gebruikten 
-In deze 'how to' zijn 4 longform experimenten te vinden met elk een eigen moeilijkheidsgraad - easy, moderate en expert - die aangeeft in welke mate technische kennis vereist is. Bij elk experiment vind je links op de pagina het voorbeeld en de technische overwegingen. Rechts kun je de benodigdheden en extra bronnen raadplegen. 
+#Hoe moet je deze how-to gebruiken 
+In deze how-to zijn vier experimenten met longforms te vinden, elk met een eigen moeilijkheidsgraad die aangeeft in welke mate technische kennis vereist is: easy, moderate en expert. Bij elk experiment vind je links op de pagina het voorbeeld en de technische overwegingen. Rechts kun je de benodigdheden en extra bronnen raadplegen. 
 </div>
 
 <div class="linkbox">
 ###Colofon
-Redactie: Miriam Rasch & Leonieke van Dipten <br>
-Design: Lasse van den Bosch & Marlon Harder, 
+Redactie: Leonieke van Dipten & Miriam Rasch<br>
+Design: Lasse van den Bosch Christensen & Marlon Harder, 
 [Template](http://www.template01.info/)<br>
-Met dank aan: Wouter Hillaert (Rekto Verso), Marianne van den Berg (ArchiNed), Sophia Zürcher, Sonja van der Valk, Nadine Roestenburg, Daphne Rieken & Laurence scherz.
+Met dank aan: Marina van den Berg (ArchiNed), Wouter Hillaert (rekto:verso), Daphne Rieken, Nadine Roestenburg, Laurence Scherz, Sonja van der Valk & Sophia Zürcher.
 </div>
 
 
-#Lessons Learned
+#Lessons learned
 ##Auteurs<br><li>Denk vanuit de content.</li><li>Denk na over een hybrid workflow: wat heb je nodig: audio, video tekst etc? En hoe kun je deze verbinden met elkaar en de mensen die je hiervoor nodig hebt. </li><li>Vertrouw op de expertise van web developers en designers en betrek ze in een zo vroeg mogelijk stadium. Zij denken vanuit de techniek en zijn mogelijkheden en op deze manier hoeft dat geen belemmering te zijn. </li><li>Een eerste publicatie is een investering qua tijd en geld, elk artikel wat daarna komt is die investering waard. </li><li>Meestal blijkt er technisch meer mogelijk dan op voorhand gedacht. </li>##Developers (misschien nog aan te vullen door Lasse en Marlon)<br><li>Denk aan de backend en of je gebruik maakt van een Content Management Systeem(CMS).</li>
 <li>Overweeg de responsiveness en offline reading mogelijkheden.</li>
 
